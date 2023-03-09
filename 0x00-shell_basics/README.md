@@ -5,3 +5,4 @@ script that changes the working directory to the user’s home directory "task 2
 Display current directory contents in a long format "task 3"
 Display current directory contents, including hidden files (starting with .). Use the long format "task 4"
 Display current directory contents "task 5"
+script that creates a directory named my first directory in the /tmp/ directory "task 6"
