@@ -20,3 +20,4 @@ The file hello will be in the working directory
 The file olleh will be in the working directory "task 10"
 script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users "taask 11"
 script that creates a directory called my dir with permissions 751 in the working directory"task 12"
+script that changes the group owner to school for the file hello "task 13"
