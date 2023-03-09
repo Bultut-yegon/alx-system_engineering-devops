@@ -22,3 +22,4 @@ script that adds execute permission to all subdirectories of the current directo
 script that creates a directory called my dir with permissions 751 in the working directory"task 12"
 script that changes the group owner to school for the file hello "task 13"
 script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory "task 14"
+script that changes the owner and the group owner of _hello to vincent and staff respectively "task 15"
