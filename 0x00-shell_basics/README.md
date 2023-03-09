@@ -9,3 +9,4 @@ script that creates a directory named my first directory in the /tmp/ directory 
 Move the file betty from /tmp/ to /tmp/my first directory "task 7"
 Delete the file betty "task 8" Bye Bye betty
 Delete the directory my first directory that is in the /tmp directory "task 9" Bye Bye My first directory
+script that changes the working directory to the previous one "task 10" Back to the future
