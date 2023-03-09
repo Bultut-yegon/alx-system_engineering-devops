@@ -12,5 +12,4 @@ Delete the directory my first directory that is in the /tmp directory "task 9" B
 script that changes the working directory to the previous one "task 10" Back to the future
 script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format "task 11"lists
 Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory "task 13"We are symbols, and inhabit symbols
-Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory"task 14"
-Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u"task 15"
+Create a script that deletes all files in the current working directory that end with the character ~ "TASK 16"
