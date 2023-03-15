@@ -10,3 +10,6 @@ script that creates a new local variable
 script that creates a new global variable.
 Name: BEST
 Value: School
+script that prints a number with two decimal places, followed by a new line.
+
+The number will be stored in the environment variable NUM
